@@ -10,11 +10,13 @@ This course will provide a comprehensive introduction to fundamental concepts an
 ### Grading policy
 All assignments are due on the date stated in class. Ten percent of the grade will be deducted for each 24 hours that the assignment is late.
 
-### Prerequisites
-- Online introduction to Linux. Students must complete one of the following online tutorials (or both) before class begins. 
-  - [Code academy's Intro to Unix](https://www.codecademy.com/en/courses/learn-the-command-line/lessons/environment/exercises/bash-profile)
-  - [Command line bootcamp](http://rik.smith-unna.com/command_line_bootcamp/?id=9xnbkx6eaof)
-- An Apple or Linux computer. Or a Windows machine with [Putty](http://www.putty.org/) installed.
+### Stats course at the U
+https://www.huber.embl.de/msmb/Chap-Models.html
+greg Stoddard's class was aimed towards basic bio and clinical research. it was fine but used stata
+PBHLT 7100 - biostatistics 2
+There is an R-based stats class called Advanced Stastical Modeling for Biologists but it is designed for people who haven't used R and is basic ways to model stats, Don Feener
+
+
 
 ### Course lecture slides
 - [All slide decks (in Google Drive)](https://drive.google.com/drive/folders/0B5Jmsvw39gJkT0dZOExrR3EwVjg?usp=sharing)
@@ -23,31 +25,70 @@ All assignments are due on the date stated in class. Ten percent of the grade wi
 - Jan 14, 2020: The human genome
     - [slides](https://docs.google.com/presentation/d/1304Ueup_n8_vqKjQZh-AV3dDAOs2gCqNgrm8o25nBHo/edit?usp=sharing)
     - [youtube](https://www.youtube.com/watch?v=yPlpVIsaRCg)
-- [Jan 16, 2020: Pattern searching in the human genome](https://docs.google.com/presentation/d/1W7bwMLAqCIB9unbv4Kswc8P7cE5ATkMhHYJfwBa64L0/edit?usp=sharing)
-- [Jan 21, 2020: Genetic Variation](https://docs.google.com/presentation/d/1JnBiaGG_eJAb1LGUiNaXP4DX-oZKaxaDVg1KFqYeAfA/edit?usp=sharing)
-- [Jan 23, 2020: DNA sequencing technologies and FASTQ format](https://docs.google.com/presentation/d/1N0DO5rlHdbrnNhyDhib8fpYYhfbtFOPcKw_Bpvv-2lA/edit?usp=sharing)
-- [Jan 28, 2020: DNA sequence mapping and alignment](https://docs.google.com/presentation/d/1RskyGhXx4Lc6wSvvb_ZuCUJGUiP2RAr9X8bGh9Kz77I/edit?usp=sharing)
-- [Jan 30, 2020: SAM/BAM format, samtools, and IGV](https://docs.google.com/presentation/d/1_iT3btOZqjPmVb8Ryk5ssMBCMxoQ0MVmasZ6G0luA-c/edit?usp=sharing)
-- [Feb 4, 2020: SNP and INDEL discovery (part 1)](https://docs.google.com/presentation/d/1D4XY9XxQiyYcwwhomRRONxCPr_bJvcC0WM4sb8vouZM/edit?usp=sharing)
-- [Feb 6, 2020: SNP and INDEL discovery (part 2)](https://docs.google.com/presentation/d/12jeJQPbntPPPGYszIH1l9u83mXFVU1XdJw-bNgbFu28/edit?usp=sharing)
-- [Feb 11, 2020: VCF format, Hardy Weinberg Equilibrium, VCF toolkits](https://docs.google.com/presentation/d/1kt2br-ZcDIzRqx__oTdC8i4NlAhluWX2WsPT_clqMaI/edit?usp=sharing)
-- [Feb 13, 2020: VCF annotation and interpetation](https://docs.google.com/presentation/d/1DN99IgciDD05b5Ve_Eaym0ORPhuDFAPU1fXBPoOq5Vo/edit?usp=sharing)
-- [Feb 18, 2020: Structural and copy number variation](https://docs.google.com/presentation/d/1h_MApL1p21ye0doXDIJdx8snix1VQInyPZKjPT0AhFM/edit?usp=sharing)
-- [Feb 20, 2020: Germline mutation]()
-- [Feb 25, 2020 (Who???): Genome Annotation and Resources](https://docs.google.com/presentation/d/1PU4ADdlmZu9jOkUa_FgrS5ppTJ3CsCIXwn1W9WkzApI/edit?usp=sharing)
-- [Feb 27, 2020: Genome Annotation Formats. And awk.](https://docs.google.com/presentation/d/1Eylp9pcU8xEhyBJJvL57pSjSukQdhBnG1sWCvJlCngs/edit?usp=sharing)
-- [Mar 3, 2020: Genome arithmetic with bedtools](https://docs.google.com/presentation/d/1yXFB72CHPiVH8zCKBwBOQg-ssmzS9xUOcTNhcsQgV1c/edit?usp=sharing)
-- [Mar 5, 2020: Real world analyses with bedtools.](https://docs.google.com/presentation/d/1-LR5tHGbvJtmk5rdyBihzd_9viI15KnTtFOrmAHdjsc/edit?usp=sharing)
-- [Mar 17, 2020: RNA-seq analysis ](https://docs.google.com/presentation/d/1KMVLhMSqTPcsRkflvNFif6xCp_lnkAF_V73S61b0DyY/edit)
-- [Mar 19, 2020: DESeq workshop](https://docs.google.com/presentation/d/12PUdfDAc3cOseJ3GqORaCidAj7vbwQcIQa2F2QRBen0/edit#slide=id.p)
-- [Mar 24, 2020: Intro to Bash scripting](https://docs.google.com/presentation/d/1Jk0BmkdaP-fXAP4dJ5KEZB-INv6lTTae4ami2fQy0Yk/edit)
-- [Mar 26, 2020 (who???): Working with clusters, shell profiles, UNIX extras.](https://docs.google.com/presentation/d/1bcZKEh-nEq-ELVBMY9NYy4a0Ue5glAk0y17CywY9K1w/edit#slide=id.p)
-- [Mar 31, 2020: Continuous distributions and descriptive statistics](https://docs.google.com/presentation/d/14sUwqgiZuBZqwkDdOgr-hnxkChTPKbC1ZPAYDxKVE8g/edit#slide=id.p)
-- [April 2, 2020: The Central Limit Theorem and Confidence Intervals](https://docs.google.com/presentation/d/1Weh4t69BeEe8rCFXEsfwlOdhX-wV7I8ceePvwXbUCsc/edit?usp=sharing)
-- [April 7, 2020: The t-statistic, t-distribution, t-tests, and p-values](https://docs.google.com/presentation/d/1X1l4UYxEzarF69W5p8PofQiAEoFNOqDlFBBppIfUc_w/edit?usp=sharing)
-- [April 14, 2020:  Intro to regression (students watch video](https://www.youtube.com/watch?v=KekLyPeet3k)
-- [April 17, 2020:  Group Presentations (1)]()
-- [April 21, 2020:  Group Presentations (2)]()
+- Jan 16, 2020: Pattern searching in the human genome
+    - [slides](https://docs.google.com/presentation/d/1W7bwMLAqCIB9unbv4Kswc8P7cE5ATkMhHYJfwBa64L0/edit?usp=sharing)
+    - [youtube](https://youtu.be/ngpwuFh7H5M?t=22https://youtu.be/ngpwuFh7H5M?t=22)
+- Jan 21, 2020: Genetic Variation
+    - [slides](https://docs.google.com/presentation/d/1JnBiaGG_eJAb1LGUiNaXP4DX-oZKaxaDVg1KFqYeAfA/edit?usp=sharing)
+    - [youtube](https://www.youtube.com/watch?v=N8nTiBOSsHI)
+- Jan 23, 2020: DNA sequencing technologies and FASTQ format
+    - [slides](https://docs.google.com/presentation/d/1N0DO5rlHdbrnNhyDhib8fpYYhfbtFOPcKw_Bpvv-2lA/edit?usp=sharing)
+    - [youtube](https://www.youtube.com/watch?v=fgbk732NdWI)
+- Jan 28, 2020: DNA sequence mapping and alignment
+    - [slides](https://docs.google.com/presentation/d/1RskyGhXx4Lc6wSvvb_ZuCUJGUiP2RAr9X8bGh9Kz77I/edit?usp=sharing)
+    - [youtube](https://www.youtube.com/watch?v=ipejNu6poPE)
+- Jan 30, 2020: SAM/BAM format, samtools, and IGV
+    - [slides](https://docs.google.com/presentation/d/1_iT3btOZqjPmVb8Ryk5ssMBCMxoQ0MVmasZ6G0luA-c/edit?usp=sharing)
+    - [youtube](https://www.youtube.com/watch?v=XU8atPxM0VQ)
+- Feb 4, 2020: SNP and INDEL discovery (part 1)
+    - [slides](https://docs.google.com/presentation/d/1D4XY9XxQiyYcwwhomRRONxCPr_bJvcC0WM4sb8vouZM/edit?usp=sharing)
+    - [youtube](https://www.youtube.com/watch?v=2ro9WCOpQqI)
+- Feb 6, 2020: SNP and INDEL discovery (part 2)
+    - [slides](https://docs.google.com/presentation/d/12jeJQPbntPPPGYszIH1l9u83mXFVU1XdJw-bNgbFu28/edit?usp=sharing)
+    - [youtube](https://www.youtube.com/watch?v=FY9t3sQMlJw)
+- Feb 11, 2020: VCF format, Hardy Weinberg Equilibrium, VCF toolkits
+    - [slides](https://docs.google.com/presentation/d/1kt2br-ZcDIzRqx__oTdC8i4NlAhluWX2WsPT_clqMaI/edit?usp=sharing)
+    - [youtube](https://www.youtube.com/watch?v=FZtWnNghRkA)
+- Feb 18, 2020: VCF annotation and interpetation
+    - [slides](https://docs.google.com/presentation/d/1DN99IgciDD05b5Ve_Eaym0ORPhuDFAPU1fXBPoOq5Vo/edit?usp=sharing)
+    - [youtube](https://www.youtube.com/watch?v=M8UfW8RNTKI)
+- Feb 20, 2020: Structural and copy number variation
+    - [slides](https://docs.google.com/presentation/d/1h_MApL1p21ye0doXDIJdx8snix1VQInyPZKjPT0AhFM/edit?usp=sharing)
+    - [youtube](https://www.youtube.com/watch?v=Skfzw5LwJq0)
+- Feb 25, 2020: Genome Annotation and Resources
+    - [slides](https://docs.google.com/presentation/d/1PU4ADdlmZu9jOkUa_FgrS5ppTJ3CsCIXwn1W9WkzApI/edit?usp=sharing)
+- Feb 27, 2020: Genome Annotation Formats.
+    - [slides](https://docs.google.com/presentation/d/1Eylp9pcU8xEhyBJJvL57pSjSukQdhBnG1sWCvJlCngs/edit?usp=sharing)
+    - [youtube](https://www.youtube.com/watch?v=tq3GeDXbZXA)
+- Mar 3, 2020: Genome arithmetic with bedtools
+    - [slides](https://docs.google.com/presentation/d/1yXFB72CHPiVH8zCKBwBOQg-ssmzS9xUOcTNhcsQgV1c/edit?usp=sharing)
+    - [youtube](https://www.youtube.com/watch?v=1R1KocKEzYY)
+- Mar 5, 2020: Real world analyses with bedtools.
+    - [slides](https://docs.google.com/presentation/d/1-LR5tHGbvJtmk5rdyBihzd_9viI15KnTtFOrmAHdjsc/edit?usp=sharing)
+    - [youtube](https://www.youtube.com/watch?v=qV6Iv1Dco-M)
+- Mar 19, 2020: Intro to RNA-seq analysis
+    - [slides](https://docs.google.com/presentation/d/1KMVLhMSqTPcsRkflvNFif6xCp_lnkAF_V73S61b0DyY/edit?usp=sharing)
+    - [youtube to do]()
+- Mar 24, 2020: Poisson Processes in Biology
+    - [slides](https://docs.google.com/presentation/d/18TdXaBIuxi0fmbTKREUH5ogwxIabKlFU9UPhhazEOf8/edit?usp=sharing)
+    - [youtube to do]()
+- Mar 26, 2020: RNA-seq analysis (cont.)
+    - [slides](https://docs.google.com/presentation/d/1KMVLhMSqTPcsRkflvNFif6xCp_lnkAF_V73S61b0DyY/edit?usp=sharing)
+    - [youtube to do]()
+- Mar 31, 2020: The Normal Distribution and Q-Q plots
+    - [slides](https://docs.google.com/presentation/d/1e1cF_fPRtrZvr1Y8N_Kat4o_Ds0QOStIvJDXC2mcy0Q/edit#slide=id.g82b15b332d_0_0)
+- Apr 02, 2020: Descriptive plots, working w/ clusters, shell profiles, UNIX extras.
+    - [slides](https://docs.google.com/presentation/d/1bcZKEh-nEq-ELVBMY9NYy4a0Ue5glAk0y17CywY9K1w/edit#slide=id.p)
+- April 7, 2020: The Central Limit Theorem and Confidence Intervals
+    - [slides](https://docs.google.com/presentation/d/1Weh4t69BeEe8rCFXEsfwlOdhX-wV7I8ceePvwXbUCsc/edit?usp=sharing)
+- April 7, 2020:  The t-statistic, t-distribution, t-tests, and p-values
+    - [slides](https://docs.google.com/presentation/d/1X1l4UYxEzarF69W5p8PofQiAEoFNOqDlFBBppIfUc_w/edit)
+    - [youtube](https://www.youtube.com/watch?v=golFyEZhVa8&feature=youtu.be)
+- April 14, 2020:  Introduction to Linear Regression
+    - [slides](https://docs.google.com/presentation/d/1tM2cUpU99hzV23wuNV3geDZPF7oeiTy16ML3zrEMi_o/edit#slide=id.g8366e18fcb_0_0)
+    - [youtube](https://www.youtube.com/watch?v=KekLyPeet3k)
+- April 16, 2020: Patterns of Mutation in the Human Genome
+    - [slides](https://drive.google.com/file/d/1qWJysIa1XAFZ_qH-kOVRDbXKGt9e9lFZ/view?usp=sharing)
 
 
 
@@ -68,6 +109,7 @@ All assignments are due on the date stated in class. Ten percent of the grade wi
 - [Homework 4: BAM files, samtools, IGV]
 - [Homework 5: Exploring genetic variation in VCF files]
 - [Homework 6: Bedtools analysis problems. Bottom of page]
+- Homework 7: Probability and R
 
 
 ### Syllabus
